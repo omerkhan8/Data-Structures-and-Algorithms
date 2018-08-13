@@ -1,0 +1,10 @@
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\bin\Release\GrandAssignment_2.exe
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\bin\Release\GrandAssignment_2.pdb
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.Form1.resources
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.Form2.resources
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.Properties.Resources.resources
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.csproj.GenerateResource.Cache
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.exe
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.pdb
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.Form3.resources
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_2\GrandAssignment_2\obj\x86\Release\GrandAssignment_2.Form4.resources
