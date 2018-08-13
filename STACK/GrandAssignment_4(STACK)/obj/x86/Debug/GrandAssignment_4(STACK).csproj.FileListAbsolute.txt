@@ -1,0 +1,17 @@
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\bin\Debug\GrandAssignment_4(STACK).exe
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\bin\Debug\GrandAssignment_4(STACK).pdb
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4_STACK_.Form1.resources
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4_STACK_.Properties.Resources.resources
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).csproj.GenerateResource.Cache
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).exe
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).pdb
+C:\Users\Omer\AppData\Local\Temporary Projects\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4_STACK_.Form2.resources
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).exe
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).pdb
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\bin\Debug\GrandAssignment_4(STACK).exe
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\bin\Debug\GrandAssignment_4(STACK).pdb
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4_STACK_.Form1.resources
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4_STACK_.Form2.resources
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4_STACK_.Properties.Resources.resources
+C:\Users\Omer\documents\visual studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).csproj.GenerateResource.Cache
+C:\Users\Omer\Documents\Visual Studio 2010\Projects\GrandAssignment_4(STACK)\GrandAssignment_4(STACK)\obj\x86\Debug\GrandAssignment_4(STACK).csprojResolveAssemblyReference.cache
